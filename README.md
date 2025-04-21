@@ -1,5 +1,5 @@
-# banner-notice
+# Banner Notice
 
 **Theme Summary**
 
-For more information, please see: **url to meta topic**
+A theme component that displays a customizable, dismissible banner to notify users with styled HTML content

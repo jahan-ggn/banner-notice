@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: A theme component that displays a customizable, dismissible banner
+      to notify users with styled HTML content
+    settings:
+      example_setting: A description of a setting.

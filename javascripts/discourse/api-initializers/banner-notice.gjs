@@ -9,10 +9,10 @@ export default apiInitializer((api) => {
       const notice =
         "SSO has been disabled. Please set up your local login password using the 'Forgot Password' option.";
 
-      addGlobalNotice(notice, "critical-deprecation", {
+      addGlobalNotice(notice, "forgot-password-notice", {
         dismissable: true,
         dismissDuration: moment.duration(1, "day"),
-        level: "normal",
+        level: "info",
       });
     }
   });
